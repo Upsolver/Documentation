@@ -35,9 +35,9 @@ The **Single Sign On URL** and the **Audience URI** can both be found by navigat
 
 9. In **Group Attribute Statements**, enter the following in the **Name** and **Value** fields respectively:
 
-| Name | Value |
-| :--- | :--- |
-| **groups** | **.\*** |
+| Name | Filter | Value |
+| :--- | :---- | :--- |
+| **groups** | **Matches regex** | **.\*** |
 
 10. Click **Next**.
 
