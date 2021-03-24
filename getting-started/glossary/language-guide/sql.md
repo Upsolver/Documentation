@@ -1,5 +1,5 @@
 ---
-description: This article details the SQL synatx used in Upsolver.
+description: This article details the SQL syntax used in Upsolver.
 ---
 
 # SQL syntax reference
